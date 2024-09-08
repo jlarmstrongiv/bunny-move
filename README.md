@@ -10,4 +10,4 @@ npx --yes bunny-move@latest <from> <to...>
 
 ## Documentation
 
-Please read the [docs](https://bunny-launcher.net/bunny-move/getting-started/) for usage and examples.
+Please read the [docs](https://bunny-launcher.net/bunny-move/quickstart/) for usage and examples.

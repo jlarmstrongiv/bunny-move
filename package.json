@@ -18,7 +18,7 @@
     "api",
     "cli"
   ],
-  "homepage": "https://bunny-launcher.net/bunny-move/getting-started/",
+  "homepage": "https://bunny-launcher.net/bunny-move/quickstart/",
   "bugs": "https://github.com/jlarmstrongiv/bunny-move/issues",
   "repository": {
     "type": "git",
