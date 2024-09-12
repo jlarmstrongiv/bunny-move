@@ -2,6 +2,9 @@
 
 [![NPM Version](https://img.shields.io/npm/v/bunny-move?color=blue)](https://www.npmjs.com/package/bunny-move)
 
+> [!IMPORTANT]
+> Please migrate to [`bunny-transfer`](https://github.com/jlarmstrongiv/bunny-transfer). This package is now in maintenance mode.
+
 ## Installation
 
 ```
